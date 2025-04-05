@@ -1,13 +1,13 @@
-### Estudos Java
+# Estudos Java
 
-## Motivação: 
+### Motivação: 
+ - Buscando aprofundar meus conhecimentos em Java, para alcançar a primeira vaga na área Tech tomando como inspiração o guia 
+do @Devmagro na rotina de estudos, e como estudo especifico na linguagem o canal do @DevDojo no Youtube e sua série "Maratonando Java virado no Jiraya";
 
 ### Objetivos:
 - A criação deste repositório é um objetivo de motivação e datar os meus estudos em Java especificadamente, com o objetivo de me tornar um desenvolvedor Backend.
-- Como conteúdos estou utilizando o canal DevDojo e sua playlist Maratona Java Virado no Jiraya, além da documentação da Oracle e a IDE InteliJ.
-
-### Até agora:
-# Se passaram 5 dias do inicio da minha jornada e os pontos abordados até o momento são:
+# Até agora:
+ Se passaram 5 dias do inicio da minha jornada e os pontos abordados até o momento são:
 - Tipos Primitivos
 - Operadores Lógicos
 - Estruturas Condicionais
