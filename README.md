@@ -7,7 +7,7 @@ do @Devmagro na rotina de estudos, e como estudo especifico na linguagem o canal
 ### Objetivos:
 - A criação deste repositório é um objetivo de motivação e datar os meus estudos em Java especificadamente, com o objetivo de me tornar um desenvolvedor Backend.
 # Até agora:
- Se passaram 10 dias do inicio da minha jornada e os pontos abordados até o momento são:
+ Se passaram 11 dias do inicio da minha jornada e os pontos abordados até o momento são:
 - Tipos Primitivos
 - Operadores Lógicos
 - Estruturas Condicionais
@@ -27,3 +27,5 @@ do @Devmagro na rotina de estudos, e como estudo especifico na linguagem o canal
 - Blocos de inicialização em um programa Java
 - Sobrescrita do método toString, modificador "final"
 - Enum e suas aplicações
+- Classes Abstratas, métodos abstratos
+- Interface, implementação de multiplas interfaces
