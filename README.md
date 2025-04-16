@@ -31,3 +31,5 @@ do @Devmagro na rotina de estudos, e como estudo especifico na linguagem o canal
 - Interface, implementação de multiplas interfaces
 - Polimorfismo e programação orientada a interfaces
 - Errors,Exceptions,Checked,RuntimeExceptions
+- Checked Exceptions,Bloco finally,Capturando Múltiplas Exceções
+- Try-With-Resources,Exceções Customizadas
