@@ -7,7 +7,7 @@ do @Devmagro na rotina de estudos, e como estudo especifico na linguagem o canal
 ### Objetivos:
 - A criação deste repositório é um objetivo de motivação e datar os meus estudos em Java especificadamente, com o objetivo de me tornar um desenvolvedor Backend.
 # Até agora:
- Se passaram 32 dias do inicio da minha jornada e os pontos abordados até o momento são:
+ Se passaram 33 dias do inicio da minha jornada e os pontos abordados até o momento são:
 - Tipos Primitivos
 - Operadores Lógicos
 - Estruturas Condicionais
@@ -41,3 +41,4 @@ do @Devmagro na rotina de estudos, e como estudo especifico na linguagem o canal
 - File,filewritter,bufferedWriter,bufferedReader
 - Classes Utilitaria: NIO, Path,Paths,Files,Normalização,Resolve e Relativize
 - NIO: BasicFileAttributes,DosFileAttributes,DirectoryStream,PathMatcher,SimpleFileVisitor,ZipOutStream
+- Serialization, Equals,HashCode
