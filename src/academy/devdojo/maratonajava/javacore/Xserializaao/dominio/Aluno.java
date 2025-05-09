@@ -7,7 +7,7 @@ public class Aluno implements Serializable {
     private int id;
     private String nome;
     private transient Turma turma;
-    // O atributo não sera serializado com o transientA
+    // O atributo não sera serializado com o transient
     private transient String password;
     // Atributos estaticos nao sao serializados
 

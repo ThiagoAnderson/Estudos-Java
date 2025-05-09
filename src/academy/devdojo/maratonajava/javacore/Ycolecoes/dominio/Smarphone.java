@@ -41,6 +41,14 @@ public class Smarphone {
         return this.serialNumber.hashCode();
     }
 
+    @Override
+    public String toString() {
+        return "Smarphone{" +
+                "serialNumber='" + serialNumber + '\'' +
+                ", marca='" + marca + '\'' +
+                '}';
+    }
+
     public String getSerialNumber() {
         return serialNumber;
     }
