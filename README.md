@@ -7,7 +7,7 @@ do @Devmagro na rotina de estudos, e como estudo especifico na linguagem o canal
 ### Objetivos:
 - A criação deste repositório é um objetivo de motivação e datar os meus estudos em Java especificadamente, com o objetivo de me tornar um desenvolvedor Backend.
 # Até agora:
- Se passaram 35 dias do inicio da minha jornada e os pontos abordados até o momento são:
+ Se passaram 36 dias do inicio da minha jornada e os pontos abordados até o momento são:
 - Tipos Primitivos
 - Operadores Lógicos
 - Estruturas Condicionais
@@ -33,7 +33,6 @@ do @Devmagro na rotina de estudos, e como estudo especifico na linguagem o canal
 - Errors,Exceptions,Checked,RuntimeExceptions
 - Checked Exceptions,Bloco finally,Capturando Múltiplas Exceções
 - Try-With-Resources,Exceções Customizadas
-- Classes utilitárias:
 - Wrappers, AutoBoxing e UnBoxing
 - String,Calendar,Date,Dateformat,Locale numeros e moedas
 - API de data/hora (moderna + SimpleDateFormat legado)
@@ -44,3 +43,4 @@ do @Devmagro na rotina de estudos, e como estudo especifico na linguagem o canal
 - Serialization, Equals,HashCode
 - List,Comparable,Comparator,SortList
 - BinarySearch, Iterator, ListArray, Set, NavigableSet
+- Map,NabigableMap,Queue e PriorityQueue
