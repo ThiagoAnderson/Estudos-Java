@@ -7,7 +7,7 @@ do @Devmagro na rotina de estudos, e como estudo especifico na linguagem o canal
 ### Objetivos:
 - A criação deste repositório é um objetivo de motivação e datar os meus estudos em Java especificadamente, com o objetivo de me tornar um desenvolvedor Backend.
 # Até agora:
- Se passaram 42 dias do inicio da minha jornada e os pontos abordados até o momento são:
+ Se passaram 43 dias do inicio da minha jornada e os pontos abordados até o momento são:
 - Tipos Primitivos
 - Operadores Lógicos
 - Estruturas Condicionais
@@ -50,3 +50,4 @@ do @Devmagro na rotina de estudos, e como estudo especifico na linguagem o canal
 - Optional
 - Streams Introdução
 - Streams: FlatMap,Reduce,Finding and Matching
+- Streams: RangedClosed,ranged,iterate,generate,Collectors: summingDouble,averagingDouble,summarizingDouble,joining.
