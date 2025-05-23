@@ -5,10 +5,17 @@ import java.util.Objects;
 public class LighNovel {
     private String tile;
     private double price;
+    private Category category;
 
     public LighNovel(String tile, double price) {
         this.tile = tile;
         this.price = price;
+    }
+
+    public LighNovel(String tile, double price, Category category) {
+        this.tile = tile;
+        this.price = price;
+        this.category = category;
     }
 
     @Override
@@ -28,7 +35,12 @@ public class LighNovel {
         return "LighNovel{" +
                 "tile='" + tile + '\'' +
                 ", price=" + price +
+                ", category=" + category +
                 '}';
+    }
+
+    public Category getCategory() {
+        return category;
     }
 
     public String getTile() {
