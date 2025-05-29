@@ -51,4 +51,4 @@ do @Devmagro na rotina de estudos, e como estudo especifico na linguagem o canal
 - Streams Introdução
 - Streams: FlatMap,Reduce,Finding and Matching
 - Streams: RangedClosed,ranged,iterate,generate,Collectors: summingDouble,averagingDouble,summarizingDouble,joining.
-- Streams : GroupingBy
+- Streams : GroupingBy.
