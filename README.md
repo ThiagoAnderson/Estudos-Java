@@ -53,3 +53,4 @@ do @Devmagro na rotina de estudos, e como estudo especifico na linguagem o canal
 - Streams: RangedClosed,ranged,iterate,generate,Collectors: summingDouble,averagingDouble,summarizingDouble,joining.
 - Streams : GroupingBy.
 - Streams: Parallel Streamns, Threads: introduçao e estado das threads.
+- Threads: Yield e  Join, sincronismo de thread,thread safe, Wait,notify,notifyAll
