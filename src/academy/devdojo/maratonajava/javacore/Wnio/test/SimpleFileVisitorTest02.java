@@ -36,5 +36,6 @@ public class SimpleFileVisitorTest02 {
         // Visitar todos os arquivos com o SimpleFileVisitor
         Path root = Paths.get("pasta");
         Files.walkFileTree(root, new ListAllFiles());
+        Files.readString(root);
     }
 }
