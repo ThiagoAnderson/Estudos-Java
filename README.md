@@ -55,3 +55,4 @@ do @Devmagro na rotina de estudos, e como estudo especifico na linguagem o canal
 - Streams: Parallel Streamns, Threads: introduçao e estado das threads.
 - Threads: Yield e  Join, sincronismo de thread,thread safe, Wait,notify,notifyAll
 - Concorrencia: AtomicInteger,lock e Reentrantlock,Conditions
+- Concorrencia: ReentrantReadWriteLock, LinkedTransferQueue,CopyOnWrite,BloackingQueue
